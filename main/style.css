@@ -1,0 +1,45 @@
+*, *::before, *::after {
+    box-sizing: border-box;
+    font-family: inconsolata, Arial, Helvetica, sans-serif;
+}
+
+
+.body {
+    margin: 0;
+}
+
+header {
+    display: flexbox;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    margin: 0;
+
+}
+
+
+.navBar {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.logoMain {
+
+}
+
+.actLogo {
+    width: 100px;
+}
+
+.navTitle {
+    position: absolute;
+    right: 50%;
+    color: white;
+    padding-top: 15px;
+}
+
+.navTitle-Text {
+    
+}
+
